@@ -1,0 +1,9 @@
+{
+	"name": "stockdatafactory2002",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dd4a7be5-e037-4323-8406-4260a9bf895f",
+		"tenantId": "c1c079c7-3ddf-4e99-83c2-7c6c0f7a7836"
+	}
+}
