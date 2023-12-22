@@ -1,0 +1,19 @@
+{
+	"name": "Binary1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "stockstoragelink",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"folderPath": "dbo",
+				"fileSystem": "gold"
+			}
+		}
+	},
+	"type": "Microsoft.Synapse/workspaces/datasets"
+}

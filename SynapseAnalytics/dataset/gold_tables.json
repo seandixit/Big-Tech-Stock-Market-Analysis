@@ -1,0 +1,17 @@
+{
+	"name": "gold_tables",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "stockstoragelink",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation"
+			}
+		}
+	},
+	"type": "Microsoft.Synapse/workspaces/datasets"
+}
