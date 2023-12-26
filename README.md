@@ -48,4 +48,5 @@ Tableau is then connected to the Azure SQL database to access the stock tables a
 
 
 ![Note: option dropdowns invisible in GIF](https://github.com/seandixit/Big-Tech-Stock-Market-Analysis/assets/153400712/bfb3382b-ebce-4c3d-8ca6-9aea2622eade)
+<img src="[/images/output/video1.gif](https://github.com/seandixit/Big-Tech-Stock-Market-Analysis/assets/153400712/bfb3382b-ebce-4c3d-8ca6-9aea2622eade)https://github.com/seandixit/Big-Tech-Stock-Market-Analysis/assets/153400712/bfb3382b-ebce-4c3d-8ca6-9aea2622eade" width="250" height="250"/>
 
