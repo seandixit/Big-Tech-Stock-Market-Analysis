@@ -11,8 +11,8 @@ This project demonstrates an end-to-end MS Azure pipeline for big tech stock com
 
 The dataset used contains historical daily prices for tickers trading on NASDAQ. It contains prices for up to 01 of April 2020 and can be found on Kaggle: https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset/data.
 
-For our purposes, data for 6 stocks was used: Apple, Facebook, Tesla, Twitter, Nvidia, Google. Raw datasets can be found in the raw folder.
-A database was created on MS SQL Server Management Studio with the 6 csv files as tables.
+For our purposes, data for 6 tech companies was used: Apple, Facebook, Tesla, Twitter, Nvidia, Google. Raw datasets can be found in the raw folder.
+An SQL database was created on MS SQL Server Management Studio with the 6 csv files as tables.
 
 # Pipeline
 ![image](https://github.com/seandixit/Big-Tech-Stock-Market-Analysis/assets/153400712/9e9db63a-e69f-4cb6-987a-735abbe43180)
