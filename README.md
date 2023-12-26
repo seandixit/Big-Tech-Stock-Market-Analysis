@@ -46,4 +46,5 @@ Now that we have delta files in the gold layer representing our data, we load it
 Tableau is then connected to the Azure SQL database to access the stock tables and create visualizations. 
 ![image](https://github.com/seandixit/Big-Tech-Stock-Market-Analysis/assets/153400712/ca5b8250-fb2e-45f2-8a1d-efeecbd667b3)
 
-![Animation](https://github.com/seandixit/Big-Tech-Stock-Market-Analysis/assets/153400712/444301d2-986d-4e12-bdcf-9a2e39d4e0f4)
+![Stock_Tableau_GIF](https://github.com/seandixit/Big-Tech-Stock-Market-Analysis/assets/153400712/b9f60e8e-336f-4110-ab91-729fc901e8a7)
+
