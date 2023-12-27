@@ -43,7 +43,7 @@ Now that we have delta files in the gold layer representing our data, we load it
 ![Synapse Pipeline to create views for each company](https://github.com/seandixit/Big-Tech-Stock-Market-Analysis/assets/153400712/feac0dc6-5c6c-482f-b0ce-185b73985683)
 
 ## Data Visualization
-Tableau is then connected to the Synapse Analytics SQL database to access the stock tables and create visualizations. Here is the visualization:
+Tableau is then connected to the Synapse Analytics SQL database to access the stock tables and create visualizations. 
 
 ![Stock_Tableau_GIF](https://github.com/seandixit/Big-Tech-Stock-Market-Analysis/assets/153400712/b9f60e8e-336f-4110-ab91-729fc901e8a7)
 
